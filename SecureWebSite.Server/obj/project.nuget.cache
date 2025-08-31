@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "trMtSs48AbQ=",
+  "success": true,
+  "projectFilePath": "E:\\C# Project\\React + ASPNET Project\\SecureWebSite\\SecureWebSite.Server\\SecureWebSite.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lahir\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.19\\microsoft.aspnetcore.spaproxy.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
